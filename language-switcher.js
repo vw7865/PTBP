@@ -42,8 +42,14 @@ class LanguageSwitcher {
     }
 
     createLanguageSwitcher() {
-        const header = document.querySelector('header');
-        const nav = header.querySelector('nav');
+        const nav = document.querySelector('.navbar .nav-container');
+        
+        if (!nav) {
+            console.error('Navigation container not found!');
+            return;
+        }
+        
+        console.log('Found navigation container:', nav);
         
         // Create language switcher container
         const langContainer = document.createElement('div');
@@ -76,6 +82,8 @@ class LanguageSwitcher {
         langContainer.appendChild(langButton);
         langContainer.appendChild(dropdown);
         nav.appendChild(langContainer);
+        
+        console.log('Language switcher added to navigation');
         
         // Store references
         this.langButton = langButton;
