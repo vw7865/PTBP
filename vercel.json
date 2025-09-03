@@ -45,14 +45,16 @@
       ]
     }
   ],
-  "routes": [
+  "redirects": [
     {
-      "src": "/Privacy-Policy",
-      "dest": "/Privacy-Policy.html"
+      "source": "/Privacy-Policy",
+      "destination": "/Privacy-Policy.html",
+      "permanent": false
     },
     {
-      "src": "/Terms-of-Use",
-      "dest": "/Terms-of-Use.html"
+      "source": "/Terms-of-Use",
+      "destination": "/Terms-of-Use.html",
+      "permanent": false
     }
   ]
 }
