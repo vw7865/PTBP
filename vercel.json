@@ -40,11 +40,11 @@
   "rewrites": [
     {
       "source": "/Privacy-Policy",
-      "destination": "/Privacy-Policy"
+      "destination": "/Privacy-Policy.html"
     },
     {
       "source": "/Terms-of-Use",
-      "destination": "/Terms-of-Use"
+      "destination": "/Terms-of-Use.html"
     }
   ]
 }
