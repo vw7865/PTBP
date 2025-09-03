@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "应用",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "使用条款"
+  },
+  "hero": {
+    "title": "iOS 应用开发者",
+    "subtitle": "为 iPhone、iPad 和 Mac 创造创新的移动体验",
+    "viewApps": "查看我们的应用",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "我们的应用",
+    "subtitle": "发现我们创新的 iOS 应用集合"
+  },
+  "about": {
+    "title": "关于 Push the Button Productions",
+    "description": "我们是充满激情的 iOS 开发者，致力于创造卓越的移动体验。我们的应用结合尖端技术和直观设计，提供增强日常生活的解决方案。",
+    "features": {
+      "innovation": "创新",
+      "quality": "质量",
+      "support": "支持"
+    },
+    "stats": {
+      "apps": "10+ 已发布应用",
+      "downloads": "100K+ 下载量",
+      "rating": "4.5★ 平均评分"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "消息",
+      "send": "发送消息",
+      "subjects": {
+        "general": "一般咨询",
+        "support": "支持",
+        "feedback": "反馈"
+      }
+    }
+  },
+  "footer": {
+    "description": "创造增强日常生活的创新 iOS 应用。",
+    "quickLinks": "快速链接",
+    "legal": "法律",
+    "support": "支持",
+    "copyright": "© 2025 Push the Button Productions. 保留所有权利。"
+  },
+  "language": "语言"
+}

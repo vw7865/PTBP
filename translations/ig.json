@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "Ngwa",
+    "contact": "Kpọtụrụ",
+    "privacy": "Nzuzo",
+    "terms": "Usoro"
+  },
+  "hero": {
+    "title": "Onye Mmepụta Ngwa iOS",
+    "subtitle": "Ịmepụta ahụmịhe mkpanaka ọhụrụ maka iPhone, iPad na Mac",
+    "viewApps": "Lelee Ngwa Anyị",
+    "appStore": "Ụlọ Ahịa Ngwa"
+  },
+  "apps": {
+    "title": "Ngwa Anyị",
+    "subtitle": "Chọpụta mkpokọta ngwa iOS ọhụrụ anyị"
+  },
+  "about": {
+    "title": "Banyere Push the Button Productions",
+    "description": "Anyị bụ ndị mmepụta iOS nwere mmasị nke raara onwe ha nye ịmepụta ahụmịhe mkpanaka pụrụ iche. Ngwa anyị jikọtara teknụzụ ọhụrụ na nhazi nke nghọta iji nye ihe ngwọta na-eme ka ndụ kwa ụbọchị dị mma.",
+    "features": {
+      "innovation": "Ọhụrụ",
+      "quality": "Ịdị mma",
+      "support": "Nkwado"
+    },
+    "stats": {
+      "apps": "10+ Ngwa Ebipụtara",
+      "downloads": "100K+ Nbudata",
+      "rating": "4.5★ Nkezi Ntụle"
+    }
+  },
+  "contact": {
+    "title": "Kpọtụrụ Anyị",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "Aha",
+      "email": "Email",
+      "subject": "Isiokwu",
+      "message": "Ozi",
+      "send": "Ziga Ozi",
+      "subjects": {
+        "general": "Ajụjụ Izugbe",
+        "support": "Nkwado",
+        "feedback": "Ntụle"
+      }
+    }
+  },
+  "footer": {
+    "description": "Ịmepụta ngwa iOS ọhụrụ na-eme ka ndụ kwa ụbọchị dị mma.",
+    "quickLinks": "Njikọ Ngwa Ngwa",
+    "legal": "Iwu",
+    "support": "Nkwado",
+    "copyright": "© 2025 Push the Button Productions. Echekwabara ikike niile."
+  },
+  "language": "Asụsụ"
+}

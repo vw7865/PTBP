@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "التطبيقات",
+    "contact": "اتصل بنا",
+    "privacy": "الخصوصية",
+    "terms": "الشروط"
+  },
+  "hero": {
+    "title": "مطور تطبيقات iOS",
+    "subtitle": "إنشاء تجارب موبايل مبتكرة لـ iPhone و iPad و Mac",
+    "viewApps": "عرض تطبيقاتنا",
+    "appStore": "متجر التطبيقات"
+  },
+  "apps": {
+    "title": "تطبيقاتنا",
+    "subtitle": "اكتشف مجموعتنا من تطبيقات iOS المبتكرة"
+  },
+  "about": {
+    "title": "حول Push the Button Productions",
+    "description": "نحن مطورو iOS متحمسون مكرسون لإنشاء تجارب موبايل استثنائية. تجمع تطبيقاتنا بين التكنولوجيا المتطورة والتصميم البديهي لتقديم حلول تعزز الحياة اليومية.",
+    "features": {
+      "innovation": "الابتكار",
+      "quality": "الجودة",
+      "support": "الدعم"
+    },
+    "stats": {
+      "apps": "10+ تطبيق منشور",
+      "downloads": "100K+ تحميل",
+      "rating": "4.5★ متوسط التقييم"
+    }
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "subject": "الموضوع",
+      "message": "الرسالة",
+      "send": "إرسال الرسالة",
+      "subjects": {
+        "general": "استفسار عام",
+        "support": "الدعم",
+        "feedback": "التعليقات"
+      }
+    }
+  },
+  "footer": {
+    "description": "إنشاء تطبيقات iOS مبتكرة تعزز الحياة اليومية.",
+    "quickLinks": "روابط سريعة",
+    "legal": "قانوني",
+    "support": "الدعم",
+    "copyright": "© 2025 Push the Button Productions. جميع الحقوق محفوظة."
+  },
+  "language": "اللغة"
+}

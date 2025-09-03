@@ -6,7 +6,8 @@
     <title>Push the Button Productions - iOS App Developer</title>
     <meta name="description" content="Professional iOS app developer creating innovative mobile applications for iOS, iPad, and Mac. Discover our apps on the App Store.">
     <meta name="keywords" content="iOS developer, mobile apps, iPhone apps, iPad apps, Mac apps, App Store, Push the Button Productions">
-    <link rel="stylesheet" href="styles.css?v=2">
+    <link rel="stylesheet" href="styles.css?v=3">
+    <link rel="stylesheet" href="language-switcher.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
@@ -22,16 +23,16 @@
                     <a href="#home" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#apps" class="nav-link">Apps</a>
+                    <a href="#apps" class="nav-link" data-translate="nav.apps">Apps</a>
                 </li>
                 <li class="nav-item">
-                    <a href="Privacy-Policy" class="nav-link">Privacy</a>
+                    <a href="Privacy-Policy" class="nav-link" data-translate="nav.privacy">Privacy</a>
                 </li>
                 <li class="nav-item">
-                    <a href="Terms-of-Use" class="nav-link">Terms</a>
+                    <a href="Terms-of-Use" class="nav-link" data-translate="nav.terms">Terms</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#contact" class="nav-link">Contact</a>
+                    <a href="#contact" class="nav-link" data-translate="nav.contact">Contact</a>
                 </li>
             </ul>
             <div class="hamburger">
@@ -46,11 +47,11 @@
     <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
-                <h1 class="hero-title">iOS App Developer</h1>
-                <p class="hero-subtitle">Creating innovative mobile experiences for iPhone, iPad, and Mac</p>
+                <h1 class="hero-title" data-translate="hero.title">iOS App Developer</h1>
+                <p class="hero-subtitle" data-translate="hero.subtitle">Creating innovative mobile experiences for iPhone, iPad, and Mac</p>
                 <div class="hero-buttons">
-                    <a href="#apps" class="btn btn-primary">View Our Apps</a>
-                    <a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank" class="btn btn-secondary">App Store</a>
+                    <a href="#apps" class="btn btn-primary" data-translate="hero.viewApps">View Our Apps</a>
+                    <a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank" class="btn btn-secondary" data-translate="hero.appStore">App Store</a>
                 </div>
             </div>
             <div class="hero-image">
@@ -64,8 +65,8 @@
     <!-- Apps Section -->
     <section id="apps" class="apps">
         <div class="container">
-            <h2 class="section-title">Our Apps</h2>
-            <p class="section-subtitle">Discover our collection of innovative iOS applications</p>
+            <h2 class="section-title" data-translate="apps.title">Our Apps</h2>
+            <p class="section-subtitle" data-translate="apps.subtitle">Discover our collection of innovative iOS applications</p>
             
             <div class="apps-grid">
                 <div class="app-card">
@@ -155,7 +156,7 @@
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
-            <h2 class="section-title">Get In Touch</h2>
+            <h2 class="section-title" data-translate="contact.title">Get In Touch</h2>
             <div class="contact-content">
                 <div class="contact-info">
                     <div class="contact-details">
@@ -187,7 +188,7 @@
                     <div class="form-group">
                         <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
                     </div>
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button type="submit" class="btn btn-primary" data-translate="contact.form.send">Send Message</button>
                 </form>
             </div>
         </div>
@@ -199,22 +200,22 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <h3>Push the Button Productions</h3>
-                    <p>Creating innovative iOS applications that enhance everyday life.</p>
+                    <p data-translate="footer.description">Creating innovative iOS applications that enhance everyday life.</p>
                 </div>
                 <div class="footer-section">
-                    <h4>Quick Links</h4>
+                    <h4 data-translate="footer.quickLinks">Quick Links</h4>
                     <ul>
                         <li><a href="#home">Home</a></li>
-                        <li><a href="#apps">Apps</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#apps" data-translate="nav.apps">Apps</a></li>
+                        <li><a href="#contact" data-translate="nav.contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h4>Legal</h4>
+                    <h4 data-translate="footer.legal">Legal</h4>
                     <ul>
-                        <li><a href="Privacy-Policy">Privacy Policy</a></li>
-                        <li><a href="Terms-of-Use">Terms of Use</a></li>
-                        <li><a href="support.html">Support</a></li>
+                        <li><a href="Privacy-Policy" data-translate="nav.privacy">Privacy Policy</a></li>
+                        <li><a href="Terms-of-Use" data-translate="nav.terms">Terms of Use</a></li>
+                        <li><a href="support.html" data-translate="footer.support">Support</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -225,11 +226,12 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Push the Button Productions. All rights reserved.</p>
+                <p data-translate="footer.copyright">&copy; 2025 Push the Button Productions. All rights reserved.</p>
             </div>
         </div>
     </footer>
 
-    <script src="script.js?v=2"></script>
+    <script src="script.js?v=3"></script>
+    <script src="language-switcher.js"></script>
 </body>
 </html>

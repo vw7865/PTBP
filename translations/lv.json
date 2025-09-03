@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "Lietotnes",
+    "contact": "Kontakts",
+    "privacy": "Privātums",
+    "terms": "Noteikumi"
+  },
+  "hero": {
+    "title": "iOS Lietotņu Izstrādātājs",
+    "subtitle": "Radīt inovatīvas mobilās pieredzes iPhone, iPad un Mac lietotnēm",
+    "viewApps": "Skatīt Mūsu Lietotnes",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "Mūsu Lietotnes",
+    "subtitle": "Atklājiet mūsu inovatīvo iOS lietotņu kolekciju"
+  },
+  "about": {
+    "title": "Par Push the Button Productions",
+    "description": "Mēs esam dedzīgi iOS izstrādātāji, kas veltīti izcilu mobilu pieredžu radīšanai. Mūsu lietotnes apvieno jaudīgāko tehnoloģiju ar intuitīvu dizainu, lai sniegtu risinājumus, kas uzlabo ikdienas dzīvi.",
+    "features": {
+      "innovation": "Inovācija",
+      "quality": "Kvalitāte",
+      "support": "Atbalsts"
+    },
+    "stats": {
+      "apps": "10+ Publicētas Lietotnes",
+      "downloads": "100K+ Lejupielādes",
+      "rating": "4.5★ Vidējais Vērtējums"
+    }
+  },
+  "contact": {
+    "title": "Sazinieties",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "Vārds",
+      "email": "E-pasts",
+      "subject": "Temats",
+      "message": "Ziņojums",
+      "send": "Sūtīt Ziņojumu",
+      "subjects": {
+        "general": "Vispārīgs Jautājums",
+        "support": "Atbalsts",
+        "feedback": "Atsauksmes"
+      }
+    }
+  },
+  "footer": {
+    "description": "Radīt inovatīvas iOS lietotnes, kas uzlabo ikdienas dzīvi.",
+    "quickLinks": "Ātrie Saiti",
+    "legal": "Juridisks",
+    "support": "Atbalsts",
+    "copyright": "© 2025 Push the Button Productions. Visas tiesības aizsargātas."
+  },
+  "language": "Valoda"
+}

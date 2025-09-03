@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "Alkalmazások",
+    "contact": "Kapcsolat",
+    "privacy": "Adatvédelem",
+    "terms": "Feltételek"
+  },
+  "hero": {
+    "title": "iOS Alkalmazás Fejlesztő",
+    "subtitle": "Innovatív mobil élmények létrehozása iPhone, iPad és Mac számára",
+    "viewApps": "Alkalmazásaink Megtekintése",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "Alkalmazásaink",
+    "subtitle": "Fedezze fel innovatív iOS alkalmazásaink gyűjteményét"
+  },
+  "about": {
+    "title": "A Push the Button Productions-ról",
+    "description": "Szenvedélyes iOS fejlesztők vagyunk, akik kivételes mobil élmények létrehozásának szentelik magukat. Alkalmazásaink a legmodernebb technológiát intuitív tervezéssel kombinálják, hogy megoldásokat nyújtsanak a mindennapi élet javítására.",
+    "features": {
+      "innovation": "Innováció",
+      "quality": "Minőség",
+      "support": "Támogatás"
+    },
+    "stats": {
+      "apps": "10+ Közzétett Alkalmazás",
+      "downloads": "100K+ Letöltés",
+      "rating": "4.5★ Átlagos Értékelés"
+    }
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "Név",
+      "email": "Email",
+      "subject": "Tárgy",
+      "message": "Üzenet",
+      "send": "Üzenet Küldése",
+      "subjects": {
+        "general": "Általános Kérdés",
+        "support": "Támogatás",
+        "feedback": "Visszajelzés"
+      }
+    }
+  },
+  "footer": {
+    "description": "Innovatív iOS alkalmazások létrehozása, amelyek javítják a mindennapi életet.",
+    "quickLinks": "Gyors Linkek",
+    "legal": "Jogi",
+    "support": "Támogatás",
+    "copyright": "© 2025 Push the Button Productions. Minden jog fenntartva."
+  },
+  "language": "Nyelv"
+}

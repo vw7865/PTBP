@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "Applications",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "hero": {
+    "title": "Développeur d'Applications iOS",
+    "subtitle": "Créer des expériences mobiles innovantes pour iPhone, iPad et Mac",
+    "viewApps": "Voir Nos Applications",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "Nos Applications",
+    "subtitle": "Découvrez notre collection d'applications iOS innovantes"
+  },
+  "about": {
+    "title": "À Propos de Push the Button Productions",
+    "description": "Nous sommes des développeurs iOS passionnés dédiés à la création d'expériences mobiles exceptionnelles. Nos applications combinent technologie de pointe et design intuitif pour offrir des solutions qui améliorent la vie quotidienne.",
+    "features": {
+      "innovation": "Innovation",
+      "quality": "Qualité",
+      "support": "Support"
+    },
+    "stats": {
+      "apps": "10+ Applications Publiées",
+      "downloads": "100K+ Téléchargements",
+      "rating": "4.5★ Note Moyenne"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message",
+      "subjects": {
+        "general": "Demande Générale",
+        "support": "Support",
+        "feedback": "Retour"
+      }
+    }
+  },
+  "footer": {
+    "description": "Créer des applications iOS innovantes qui améliorent la vie quotidienne.",
+    "quickLinks": "Liens Rapides",
+    "legal": "Légal",
+    "support": "Support",
+    "copyright": "© 2025 Push the Button Productions. Tous droits réservés."
+  },
+  "language": "Langue"
+}

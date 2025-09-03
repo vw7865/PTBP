@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "앱",
+    "contact": "연락처",
+    "privacy": "개인정보",
+    "terms": "이용약관"
+  },
+  "hero": {
+    "title": "iOS 앱 개발자",
+    "subtitle": "iPhone, iPad, Mac을 위한 혁신적인 모바일 경험 창조",
+    "viewApps": "앱 보기",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "우리의 앱",
+    "subtitle": "혁신적인 iOS 애플리케이션 컬렉션을 발견하세요"
+  },
+  "about": {
+    "title": "Push the Button Productions 소개",
+    "description": "우리는 탁월한 모바일 경험 창조에 전념하는 열정적인 iOS 개발자입니다. 우리의 앱은 최첨단 기술과 직관적인 디자인을 결합하여 일상생활을 향상시키는 솔루션을 제공합니다.",
+    "features": {
+      "innovation": "혁신",
+      "quality": "품질",
+      "support": "지원"
+    },
+    "stats": {
+      "apps": "10+ 출시된 앱",
+      "downloads": "100K+ 다운로드",
+      "rating": "4.5★ 평균 평점"
+    }
+  },
+  "contact": {
+    "title": "연락처",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "이름",
+      "email": "이메일",
+      "subject": "제목",
+      "message": "메시지",
+      "send": "메시지 보내기",
+      "subjects": {
+        "general": "일반 문의",
+        "support": "지원",
+        "feedback": "피드백"
+      }
+    }
+  },
+  "footer": {
+    "description": "일상생활을 향상시키는 혁신적인 iOS 앱을 만듭니다.",
+    "quickLinks": "빠른 링크",
+    "legal": "법적",
+    "support": "지원",
+    "copyright": "© 2025 Push the Button Productions. 모든 권리 보유."
+  },
+  "language": "언어"
+}

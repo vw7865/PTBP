@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "apps": "アプリ",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシー",
+    "terms": "利用規約"
+  },
+  "hero": {
+    "title": "iOSアプリ開発者",
+    "subtitle": "iPhone、iPad、Mac向けの革新的なモバイル体験を作成",
+    "viewApps": "アプリを見る",
+    "appStore": "App Store"
+  },
+  "apps": {
+    "title": "私たちのアプリ",
+    "subtitle": "革新的なiOSアプリケーションのコレクションを発見"
+  },
+  "about": {
+    "title": "Push the Button Productionsについて",
+    "description": "私たちは、卓越したモバイル体験の創造に専念する情熱的なiOS開発者です。私たちのアプリは、最先端技術と直感的なデザインを組み合わせ、日常生活を向上させるソリューションを提供します。",
+    "features": {
+      "innovation": "革新",
+      "quality": "品質",
+      "support": "サポート"
+    },
+    "stats": {
+      "apps": "10+ 公開アプリ",
+      "downloads": "100K+ ダウンロード",
+      "rating": "4.5★ 平均評価"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "email": "victor@pushthebuttonproductions.com",
+    "form": {
+      "name": "名前",
+      "email": "メール",
+      "subject": "件名",
+      "message": "メッセージ",
+      "send": "メッセージを送信",
+      "subjects": {
+        "general": "一般的なお問い合わせ",
+        "support": "サポート",
+        "feedback": "フィードバック"
+      }
+    }
+  },
+  "footer": {
+    "description": "日常生活を向上させる革新的なiOSアプリを作成。",
+    "quickLinks": "クイックリンク",
+    "legal": "法的",
+    "support": "サポート",
+    "copyright": "© 2025 Push the Button Productions. 全著作権所有。"
+  },
+  "language": "言語"
+}
