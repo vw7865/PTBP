@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Push the Button Productions</title>
+    <meta name="description" content="Privacy Policy for Push the Button Productions iOS applications. Learn how we collect, use, and protect your data.">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Push the Button Productions</h2>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="index.html#apps" class="nav-link">Apps</a>
+                </li>
+                <li class="nav-item">
+                    <a href="Privacy-Policy" class="nav-link active">Privacy</a>
+                </li>
+                <li class="nav-item">
+                    <a href="Terms-of-Use" class="nav-link">Terms</a>
+                </li>
+                <li class="nav-item">
+                    <a href="index.html#contact" class="nav-link">Contact</a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Privacy Policy Content -->
+    <section class="legal-content">
+        <div class="container">
+            <div class="legal-header">
+                <h1>Privacy Policy</h1>
+                <p>Last updated: September 2025</p>
+            </div>
+            
+            <div class="legal-body">
+                <h2>1. Introduction</h2>
+                <p>Push the Button Productions ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile applications and visit our website.</p>
+
+                <h2>2. Information We Collect</h2>
+                <h3>2.1 Personal Information</h3>
+                <p>We may collect personal information that you voluntarily provide to us, including:</p>
+                <ul>
+                    <li>Name and email address (when contacting us)</li>
+                    <li>Device information and usage statistics</li>
+                    <li>App preferences and settings</li>
+                </ul>
+
+                <h3>2.2 Automatically Collected Information</h3>
+                <p>Our apps may automatically collect certain information, including:</p>
+                <ul>
+                    <li>Device type and operating system</li>
+                    <li>App usage patterns and crash reports</li>
+                    <li>IP address and general location data</li>
+                </ul>
+
+                <h2>3. How We Use Your Information</h2>
+                <p>We use the collected information for the following purposes:</p>
+                <ul>
+                    <li>To provide and maintain our services</li>
+                    <li>To improve app functionality and user experience</li>
+                    <li>To respond to your inquiries and provide support</li>
+                    <li>To analyze usage patterns and optimize performance</li>
+                    <li>To comply with legal obligations</li>
+                </ul>
+
+                <h2>4. Information Sharing and Disclosure</h2>
+                <p>We do not sell, trade, or otherwise transfer your personal information to third parties, except in the following circumstances:</p>
+                <ul>
+                    <li>With your explicit consent</li>
+                    <li>To comply with legal requirements</li>
+                    <li>To protect our rights and safety</li>
+                    <li>In connection with a business transfer or merger</li>
+                </ul>
+
+                <h2>5. Data Security</h2>
+                <p>We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure.</p>
+
+                <h2>6. Third-Party Services</h2>
+                <p>Our apps may integrate with third-party services (such as analytics providers). These services have their own privacy policies, and we encourage you to review them.</p>
+
+                <h2>7. Children's Privacy</h2>
+                <p>Our apps are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.</p>
+
+                <h2>8. Your Rights and Choices</h2>
+                <p>You have the right to:</p>
+                <ul>
+                    <li>Access and update your personal information</li>
+                    <li>Request deletion of your personal information</li>
+                    <li>Opt-out of certain data collection</li>
+                    <li>Contact us with privacy-related questions</li>
+                </ul>
+
+                <h2>9. International Data Transfers</h2>
+                <p>Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your information.</p>
+
+                <h2>10. Changes to This Privacy Policy</h2>
+                <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+
+                <h2>11. Contact Us</h2>
+                <p>If you have any questions about this Privacy Policy or our privacy practices, please contact us at:</p>
+                <div class="contact-info">
+                    <p><strong>Email:</strong> privacy@pushbuttonproductions.com</p>
+                    <p><strong>Website:</strong> <a href="https://ptbp-website.vercel.app">https://ptbp-website.vercel.app</a></p>
+                </div>
+
+                <h2>12. App-Specific Privacy Information</h2>
+                <h3>12.1 Gaming Apps (Minecraft-related)</h3>
+                <p>Our Minecraft-related apps are reference guides and do not collect personal gaming data or connect to Minecraft servers.</p>
+
+                <h3>12.2 Plant Care & Identifier</h3>
+                <p>This app may access your device's camera to identify plants. Photos are processed locally and are not stored on our servers.</p>
+
+                <h3>12.3 Bird Sound Identifier AI</h3>
+                <p>This app may access your device's microphone to record bird sounds for identification. Audio is processed locally and not stored.</p>
+
+                <h3>12.4 Speedometer GPS</h3>
+                <p>This app requires location permissions to provide accurate speed measurements. Location data is used only for speed calculation and is not stored or transmitted.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Push the Button Productions</h3>
+                    <p>Creating innovative iOS applications that enhance everyday life.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.html#apps">Apps</a></li>
+                        <li><a href="index.html#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="Privacy-Policy">Privacy Policy</a></li>
+                        <li><a href="Terms-of-Use">Terms of Use</a></li>
+                        <li><a href="support.html">Support</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        <a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank"><i class="fab fa-apple"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Push the Button Productions. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
