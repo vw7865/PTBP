@@ -562,7 +562,7 @@ body {
 /* Legal Pages Styles */
 .legal-content {
     padding: 120px 0 5rem;
-    background: #f8fafc;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     min-height: 100vh;
 }
 
@@ -570,35 +570,68 @@ body {
     text-align: center;
     margin-bottom: 3rem;
     padding-bottom: 2rem;
-    border-bottom: 2px solid #e5e7eb;
+    border-bottom: 3px solid #007AFF;
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 .legal-header h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: 700;
     color: #1f2937;
     margin-bottom: 1rem;
+    background: linear-gradient(135deg, #007AFF, #2563eb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 .legal-header p {
     color: #6b7280;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    background: #f3f4f6;
+    padding: 0.75rem 1.5rem;
+    border-radius: 25px;
+    display: inline-block;
+    border: 2px solid #e5e7eb;
 }
 
 .legal-body {
     background: white;
     padding: 3rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     line-height: 1.8;
+    border: 1px solid #e5e7eb;
+    position: relative;
+    overflow: hidden;
+}
+
+.legal-body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #007AFF, #2563eb, #007AFF);
 }
 
 .legal-body h2 {
-    font-size: 1.8rem;
-    font-weight: 600;
+    font-size: 2rem;
+    font-weight: 700;
     color: #1f2937;
-    margin: 2rem 0 1rem;
+    margin: 2.5rem 0 1.5rem;
     padding-top: 1rem;
+    border-left: 4px solid #007AFF;
+    padding-left: 1rem;
+    background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    margin-left: -1.5rem;
 }
 
 .legal-body h2:first-child {
