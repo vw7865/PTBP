@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Awesome Website</title>
+    <title>Push the Button Productions - iOS App Developer</title>
+    <meta name="description" content="Professional iOS app developer creating innovative mobile applications for iOS, iPad, and Mac. Discover our apps on the App Store.">
+    <meta name="keywords" content="iOS developer, mobile apps, iPhone apps, iPad apps, Mac apps, App Store, Push the Button Productions">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -13,20 +15,26 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                <h2>MyWebsite</h2>
+                <h2>Push the Button Productions</h2>
             </div>
             <ul class="nav-menu">
                 <li class="nav-item">
                     <a href="#home" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a href="#apps" class="nav-link">Apps</a>
+                </li>
+                <li class="nav-item">
                     <a href="#about" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#services" class="nav-link">Services</a>
+                    <a href="#contact" class="nav-link">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#contact" class="nav-link">Contact</a>
+                    <a href="privacy.html" class="nav-link">Privacy</a>
+                </li>
+                <li class="nav-item">
+                    <a href="terms.html" class="nav-link">Terms</a>
                 </li>
             </ul>
             <div class="hamburger">
@@ -41,19 +49,112 @@
     <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
-                <h1 class="hero-title">Welcome to My Awesome Website</h1>
+                <h1 class="hero-title">iOS App Developer</h1>
+                <p class="hero-subtitle">Creating innovative mobile experiences for iOS, iPad, and Mac</p>
                 <p class="hero-description">
-                    A modern, responsive website built with HTML, CSS, and JavaScript. 
-                    Perfect for showcasing your projects and ideas.
+                    Professional iOS developer with a passion for creating user-friendly, 
+                    feature-rich applications that enhance everyday life. From gaming to productivity, 
+                    discover our apps on the App Store.
                 </p>
                 <div class="hero-buttons">
-                    <a href="#about" class="btn btn-primary">Learn More</a>
-                    <a href="#contact" class="btn btn-secondary">Get Started</a>
+                    <a href="#apps" class="btn btn-primary">View Our Apps</a>
+                    <a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank" class="btn btn-secondary">App Store</a>
                 </div>
             </div>
             <div class="hero-image">
                 <div class="hero-placeholder">
-                    <i class="fas fa-rocket"></i>
+                    <i class="fab fa-apple"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Apps Section -->
+    <section id="apps" class="apps">
+        <div class="container">
+            <h2 class="section-title">Our Apps</h2>
+            <p class="section-subtitle">Discover our collection of innovative iOS applications</p>
+            
+            <div class="apps-grid">
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-gem"></i>
+                    </div>
+                    <h3>Find Diamonds for Minecraft</h3>
+                    <p class="app-category">Reference</p>
+                    <p class="app-description">Essential guide for finding diamonds in Minecraft. Perfect for both beginners and experienced players.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPad</span>
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/find-diamonds-for-minecraft/id1706567744" target="_blank" class="btn btn-app">View on App Store</a>
+                </div>
+
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-gun"></i>
+                    </div>
+                    <h3>Gun Addons for Minecraft</h3>
+                    <p class="app-category">Reference</p>
+                    <p class="app-description">Comprehensive guide to gun addons and mods for Minecraft. Enhance your gaming experience.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPad</span>
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/gun-addons-for-minecraft/id1706567745" target="_blank" class="btn btn-app">View on App Store</a>
+                </div>
+
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-couch"></i>
+                    </div>
+                    <h3>Furniture for Minecraft PE</h3>
+                    <p class="app-category">Reference</p>
+                    <p class="app-description">Complete furniture guide for Minecraft Pocket Edition. Build and decorate your perfect world.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPad</span>
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/furniture-for-minecraft-pe/id1706567746" target="_blank" class="btn btn-app">View on App Store</a>
+                </div>
+
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-seedling"></i>
+                    </div>
+                    <h3>Plant Care & Identifier</h3>
+                    <p class="app-category">Lifestyle</p>
+                    <p class="app-description">Identify plants and get expert care tips. Your personal plant care assistant.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/plant-care-identifier/id1706567747" target="_blank" class="btn btn-app">View on App Store</a>
+                </div>
+
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-bird"></i>
+                    </div>
+                    <h3>Bird Sound Identifier AI</h3>
+                    <p class="app-category">Reference</p>
+                    <p class="app-description">AI-powered bird sound identification. Learn to recognize birds by their songs and calls.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/bird-sound-identifier-ai/id1706567748" target="_blank" class="btn btn-app">View on App Store</a>
+                </div>
+
+                <div class="app-card">
+                    <div class="app-icon">
+                        <i class="fas fa-tachometer-alt"></i>
+                    </div>
+                    <h3>Speedometer GPS: Speed Test</h3>
+                    <p class="app-category">Navigation</p>
+                    <p class="app-description">Accurate GPS speedometer with advanced features. Perfect for vehicles and outdoor activities.</p>
+                    <div class="app-platforms">
+                        <span class="platform">iPhone</span>
+                    </div>
+                    <a href="https://apps.apple.com/us/app/speedometer-gps-speed-test/id1706567749" target="_blank" class="btn btn-app">View on App Store</a>
                 </div>
             </div>
         </div>
@@ -62,69 +163,52 @@
     <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
-            <h2 class="section-title">About Us</h2>
+            <h2 class="section-title">About Push the Button Productions</h2>
             <div class="about-content">
                 <div class="about-text">
                     <p>
-                        We are passionate about creating beautiful, functional websites that 
-                        deliver exceptional user experiences. Our team combines creativity 
-                        with technical expertise to bring your vision to life.
+                        We are passionate iOS developers dedicated to creating innovative, 
+                        user-friendly applications that enhance everyday life. Our focus is on 
+                        delivering high-quality apps that solve real problems and provide 
+                        genuine value to our users.
                     </p>
                     <p>
-                        Whether you need a simple landing page or a complex web application, 
-                        we have the skills and experience to make it happen.
+                        From gaming guides and reference apps to lifestyle and productivity tools, 
+                        we strive to create applications that are both functional and enjoyable to use. 
+                        Our commitment to quality and user experience drives everything we do.
                     </p>
+                    <div class="about-features">
+                        <div class="feature">
+                            <i class="fas fa-mobile-alt"></i>
+                            <span>iOS Development</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-paint-brush"></i>
+                            <span>UI/UX Design</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-rocket"></i>
+                            <span>App Store Optimization</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-headset"></i>
+                            <span>User Support</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="about-stats">
                     <div class="stat">
-                        <h3>100+</h3>
-                        <p>Projects Completed</p>
+                        <h3>10+</h3>
+                        <p>Apps Published</p>
                     </div>
                     <div class="stat">
-                        <h3>50+</h3>
-                        <p>Happy Clients</p>
+                        <h3>100K+</h3>
+                        <p>Downloads</p>
                     </div>
                     <div class="stat">
-                        <h3>24/7</h3>
-                        <p>Support</p>
+                        <h3>4.5★</h3>
+                        <p>Average Rating</p>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Services Section -->
-    <section id="services" class="services">
-        <div class="container">
-            <h2 class="section-title">Our Services</h2>
-            <div class="services-grid">
-                <div class="service-card">
-                    <div class="service-icon">
-                        <i class="fas fa-code"></i>
-                    </div>
-                    <h3>Web Development</h3>
-                    <p>Custom websites and web applications built with modern technologies.</p>
-                </div>
-                <div class="service-card">
-                    <div class="service-icon">
-                        <i class="fas fa-mobile-alt"></i>
-                    </div>
-                    <h3>Responsive Design</h3>
-                    <p>Websites that look great on all devices, from desktop to mobile.</p>
-                </div>
-                <div class="service-card">
-                    <div class="service-icon">
-                        <i class="fas fa-paint-brush"></i>
-                    </div>
-                    <h3>UI/UX Design</h3>
-                    <p>Beautiful and intuitive user interfaces that enhance user experience.</p>
-                </div>
-                <div class="service-card">
-                    <div class="service-icon">
-                        <i class="fas fa-server"></i>
-                    </div>
-                    <h3>Hosting & Deployment</h3>
-                    <p>Reliable hosting solutions and seamless deployment to platforms like Vercel.</p>
                 </div>
             </div>
         </div>
@@ -137,19 +221,19 @@
             <div class="contact-content">
                 <div class="contact-info">
                     <h3>Let's work together</h3>
-                    <p>Ready to start your next project? We'd love to hear from you!</p>
+                    <p>Have a project in mind? Want to collaborate? We'd love to hear from you!</p>
                     <div class="contact-details">
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
-                            <span>hello@mywebsite.com</span>
+                            <span>contact@pushbuttonproductions.com</span>
                         </div>
                         <div class="contact-item">
-                            <i class="fas fa-phone"></i>
-                            <span>+1 (555) 123-4567</span>
+                            <i class="fab fa-apple"></i>
+                            <span><a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank">App Store Developer Page</a></span>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-map-marker-alt"></i>
-                            <span>123 Web Street, Digital City</span>
+                            <span>iOS Development Studio</span>
                         </div>
                     </div>
                 </div>
@@ -159,6 +243,15 @@
                     </div>
                     <div class="form-group">
                         <input type="email" id="email" name="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <select id="subject" name="subject" required>
+                            <option value="">Select Subject</option>
+                            <option value="app-support">App Support</option>
+                            <option value="collaboration">Collaboration</option>
+                            <option value="feature-request">Feature Request</option>
+                            <option value="general">General Inquiry</option>
+                        </select>
                     </div>
                     <div class="form-group">
                         <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
@@ -174,30 +267,38 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>MyWebsite</h3>
-                    <p>Creating amazing digital experiences.</p>
+                    <h3>Push the Button Productions</h3>
+                    <p>Creating innovative iOS applications that enhance everyday life.</p>
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
                     <ul>
                         <li><a href="#home">Home</a></li>
+                        <li><a href="#apps">Apps</a></li>
                         <li><a href="#about">About</a></li>
-                        <li><a href="#services">Services</a></li>
                         <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                        <li><a href="terms.html">Terms of Use</a></li>
+                        <li><a href="support.html">Support</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
                     <h4>Connect</h4>
                     <div class="social-links">
+                        <a href="https://apps.apple.com/us/developer/push-the-button-productions/id1706567743" target="_blank"><i class="fab fa-apple"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-linkedin"></i></a>
                         <a href="#"><i class="fab fa-github"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 MyWebsite. All rights reserved.</p>
+                <p>&copy; 2024 Push the Button Productions. All rights reserved.</p>
             </div>
         </div>
     </footer>
