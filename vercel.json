@@ -24,6 +24,10 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/css"
         }
       ]
     },
@@ -33,18 +37,22 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
         }
       ]
     }
   ],
-  "rewrites": [
+  "routes": [
     {
-      "source": "/Privacy-Policy",
-      "destination": "/Privacy-Policy.html"
+      "src": "/Privacy-Policy",
+      "dest": "/Privacy-Policy.html"
     },
     {
-      "source": "/Terms-of-Use",
-      "destination": "/Terms-of-Use.html"
+      "src": "/Terms-of-Use",
+      "dest": "/Terms-of-Use.html"
     }
   ]
 }
